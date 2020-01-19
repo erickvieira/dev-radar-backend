@@ -1,0 +1,9 @@
+POST http://localhost:9080/devs HTTP/1.1
+Content-Type: application/json
+
+{
+  "github_username": "wevertoum",
+  "techs": "Ionic 4, Angular2+, Java, Web Design",
+  "longitude": 49.1587874,
+  "latitude": -16.6498496
+}

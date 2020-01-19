@@ -1,0 +1,1 @@
+GET http://localhost:9080/search?latitude=49.1587874&longitude=-16.6498496&techs=ReactJS,%20React%20Native HTTP/1.1

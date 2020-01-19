@@ -1,0 +1,6 @@
+{
+  "username": "my_mongo_username",
+  "password": "my_mongo_password",
+  "cluster": "my_mongo_cluster",
+  "database": "my_mongo_database"
+}
